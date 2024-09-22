@@ -68,3 +68,4 @@ products.forEach((product) => {
 });
 
 console.log(productsHtml);
+console.log('git checking');
